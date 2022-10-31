@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Lisa",
+    "age": 25,
+    "role": "Student",
+    "school_id": 13345,
+    "password": "xx"
+  },
+  {
+    "name": "Jessie",
+    "age": 25,
+    "role": "Student",
+    "school_id": 12335,
+    "password": "xx"
+  },
+  {
+    "name": "Slater",
+    "age": 25,
+    "role": "Student",
+    "school_id": 12645,
+    "password": "xx"
+  },
+  {
+    "name": "Zack",
+    "age": 25,
+    "role": "Student",
+    "school_id": 34456,
+    "password": "xx"
+  },
+  {
+    "name": "Kelly",
+    "age": 25,
+    "role": "Student",
+    "school_id": 54544,
+    "password": "xx"
+  },
+  {
+    "name": "Screech",
+    "age": 25,
+    "role": "Student",
+    "school_id": 66666,
+    "password": "xx"
+  }
+]

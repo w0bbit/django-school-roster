@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Culpepper",
+    "age": 25,
+    "role": "Principal",
+    "employee_id": 86545,
+    "password": "xx"
+  },
+  {
+    "name": "Dewey",
+    "age": 25,
+    "role": "Janitor",
+    "employee_id": 85545,
+    "password": "xx"
+  },
+  {
+    "name": "Mertz",
+    "age": 25,
+    "role": "Teacher",
+    "employee_id": 83545,
+    "password": "xx"
+  },
+  {
+    "name": "Dickerson",
+    "age": 25,
+    "role": "Teacher",
+    "employee_id": 86542,
+    "password": "xx"
+  },
+  {
+    "name": "Heimlich",
+    "age": 25,
+    "role": "Teacher",
+    "employee_id": 86745,
+    "password": "xx"
+  }
+]
